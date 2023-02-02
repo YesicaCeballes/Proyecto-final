@@ -1,0 +1,56 @@
+body {
+    color: black;
+    background-color: #faebd7;
+    content: '\F02FA';;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-image: url(imagencv.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0 auto;    
+}
+
+fieldset {
+    margin-bottom: 10px;
+}
+
+legend {
+    background-color: #ff7f50;
+    padding: 5px;
+    font-weight: bold;
+    background: #ff7f50;
+    border-radius: 15px;
+}
+button {
+    background-color: #ff7f50;
+}
+
+
+fieldset {
+    margin-bottom: 10px;
+}
+
+legend {
+    background-color: coral;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+table, td,i{                
+    margin-right: 20px;
+}
+
+i {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#content {                  
+  display: none; 
+  overflow: hidden;
+}
+
+
